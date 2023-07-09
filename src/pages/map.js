@@ -8,10 +8,11 @@ import {
 import styles from "../styles/Home.module.css";
 
 const containerStyle = {
-  width: "500px",
-  height: "95%", // Set the height based on the descBoxHeight prop
+  width: "300px",
+  height: "50vh", // Set the height based on the descBoxHeight prop
   border: "10px solid #303a41",
   borderRadius: "10px",
+  marginBottom: "20px",
 };
 
 const Map = ({ address }) => {
