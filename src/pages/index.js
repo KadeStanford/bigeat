@@ -295,7 +295,7 @@ export default function Home() {
               style={{
                 width: "100%",
                 borderRadius: "5px",
-                objectFit: "cover",
+                objectFit: "fill",
               }}
             >
               <img
@@ -303,7 +303,7 @@ export default function Home() {
                 style={{
                   width: "100%",
                   borderRadius: "5px",
-                  objectFit: "cover",
+                  objectFit: "fill",
                 }}
               ></img>
             </div>
@@ -312,7 +312,7 @@ export default function Home() {
               style={{
                 width: "100%",
                 borderRadius: "5px",
-                objectFit: "cover",
+                objectFit: "fill",
               }}
             >
               <img
